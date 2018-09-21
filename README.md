@@ -19,5 +19,3 @@ We embedded a glove with resistive flex sensors (one for each finger) to communi
 - [TouchOSC by Hexler](https://hexler.net/software/touchosc)
 - [SpicyGuitar by Pierre-André and Benoît](http://www.spicyguitar.com)
 - [Flex Sensors from SparkFun](https://www.sparkfun.com/products/8606)
-
-### _presentation video coming soon!_
