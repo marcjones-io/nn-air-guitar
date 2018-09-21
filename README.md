@@ -1,4 +1,4 @@
-# The Best Air Guitar Yet
+# The Air Guitar Your Gen-X Dad Wish He Had
 
 #### yes air guitars are passé
 #### yes modeling software instruments after real-life ones is a cliché
