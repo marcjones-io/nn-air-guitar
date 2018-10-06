@@ -1,4 +1,4 @@
-# The Air Guitar Your Gen-X Dad Wish He Had
+# The air guitar your pappy wish he had
 
 #### yes air guitars are passé
 #### yes modeling software instruments after real-life ones is a cliché
